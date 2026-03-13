@@ -12,7 +12,7 @@ print_help() {
     echo "  -p <prefix>   Set the prefix directory (default: current directory)"
     echo "  -v            Enable verbose output"
     echo ""
-    echo "rusttale documentation, the lore build scripts - lazypwny751, 2026"
+    echo "Memory Leak documentation, the lore build scripts - lazypwny751, 2026"
 }
 
 if [ "${#}" -le 0 ]; then

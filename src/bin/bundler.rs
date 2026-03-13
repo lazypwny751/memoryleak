@@ -1,5 +1,5 @@
 /*
-	> Rusttale, 2026 - bundler 
+	> Memory Leak, 2026 - bundler 
 	Binary asset bundler for the Rusttale project.
 	This helper tool builds game resources into a single resource pack
 	that can be loaded by the Rusttale engine. 
@@ -11,5 +11,5 @@
 		based on <path 
 */
 fn main() {
-	println!("rusttale resource bundler");	
+	println!("memoryleak resource bundler");	
 }

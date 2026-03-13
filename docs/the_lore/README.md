@@ -49,4 +49,4 @@ an example to build the lore book in English:
 > By default the script will generate automatically the lore book in English (`en`) and Turkish (`tr`), but you can specify other languages if available.
 
 # Contributing to the Lore
-We welcome contributions to the lore! If you have ideas for new stories, characters, or world-building elements, please feel free to submit a [pull request](https://github.com/lazypwny751/rusttale) or open an [issue](https://github.com/lazypwny751/rusttale/issues) on our GitHub repository. Your creativity and passion help make our project even more engaging and immersive.
+We welcome contributions to the lore! If you have ideas for new stories, characters, or world-building elements, please feel free to submit a [pull request](https://github.com/lazypwny751/memoryleak) or open an [issue](https://github.com/lazypwny751/memoryleak/issues) on our GitHub repository. Your creativity and passion help make our project even more engaging and immersive.
