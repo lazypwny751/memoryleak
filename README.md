@@ -2,7 +2,7 @@
 
 <img width="640" height="640" alt="rusty_1" src="https://github.com/user-attachments/assets/4f3105b9-27a7-4ba1-8148-8e005d18255d" />
 
-**Memory Leak** is a 2D game developing using the [Tetra](https://github.com/tetra-engine/tetra) framework in Rust.
+**Memory Leak** is a 2D game developing using the [Tetra](https://github.com/17cupsofcoffee/tetra) framework in Rust.
 
 - add fluent for i18n.
 - add ogmo3 for level design.
