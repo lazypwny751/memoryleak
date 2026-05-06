@@ -1,4 +1,4 @@
-use memoryleak::fsm::fsm::GameLoop;
+use memoryleak::fsm::general::GameLoop;
 
 fn main() {
 	let state: GameLoop = GameLoop::LoadGame;
@@ -10,8 +10,7 @@ fn main() {
 			GameLoop::MainMenu => (),
 			GameLoop::InGame => (),
 			GameLoop::Menu => (),
-			GameLoop::GameOver => (),
+			GameLoop::GameOver => break,
 		}
-		break;
 	}
 }
